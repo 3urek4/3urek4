@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @loveNGC2237
 - 👀 I’m interested in Algorithm,artificial intelligence,website development,network security and so on.
 - 🌱 I’m currently learning Java,C++ and website development.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on C++ or Java projects.                                                                          
 - 📫 How to reach me ...
 
 <!---
