@@ -1,3 +1,4 @@
+![3urek4's GitHub stats](https://github-readme-stats.vercel.app/api?username=3urek4&show_icons=true&theme=radical)
 - 👋 Hi, I’m @3urek4, a freshman.
 - 👀 I’m interested in Algorithm,artificial intelligence,website development,network security and so on.
 - 🌱 I’m currently learning Java,C++ and website development.
