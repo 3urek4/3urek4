@@ -1,3 +1,4 @@
+# :wave:Hi! 3urek4 here.
 ![3urek4's GitHub stats](https://github-readme-stats.vercel.app/api?username=3urek4&count_private=true&show_icons=true&theme=tokyonight)  
 
 <!---
